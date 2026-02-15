@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**0piiu/0piiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <strong>Olá pessoal, 👋</strong>
 
-Here are some ideas to get you started:
+<div align="center">
+<div align="left" style="display: inline-block; text-align: left;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 **Foco Atual:** Projetos pessoais e freelance em **Java, MongoDB e SQL Server**.
+* 🌱 **Educação:** Estudante de **Engenharia de Software**, focado em lógica de negócios e arquitetura.
+* 📫 **Contato:** [thaleszezun@gmail.com](mailto:thaleszezun@gmail.com)
+* 👤 **Pronomes:** Ele/Dele
+
+</div>
+
+<br><br>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=0piiu&theme=transparent&fire=39FF14&ring=39FF14&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+<p align="center">
+<i>
+  Sistema Operacional que estais na memória,<br>
+  Compilado seja o vosso programa,<br>
+  Venha à tela os vossos comandos,<br>
+  Seja executada a nossa rotina,<br>
+  Assim na memória, como na impressora.<br>
+  Acerto nosso de cada dia, rodai hoje.<br>
+  Informai os nossos erros,<br>
+  Assim como nós informamos o que está corrigido,<br>
+  Não nos deixai entrar em looping,<br>
+  Mas livrai-nos do Dump,<br>
+  A main().
+</i>
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,postgres,eclipse,vscode,git,linux&theme=dark" />
+</p>
+
+</div>
