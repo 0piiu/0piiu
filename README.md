@@ -7,7 +7,6 @@
 - 🔭 **Foco Atual:** Projetos pessoais e freelance em **Java, MongoDB e SQL Server**
 - 🌱 **Educação:** Estudante de **Engenharia de Software**, focado em lógica de negócios e arquitetura
 - 📫 **Contato:** [thaleszezun@gmail.com](mailto:thaleszezun@gmail.com)
-- 📫 **Contato:** [Beacons](mailto:https://beacons.ai/thalessantos)
 - 👤 **Pronomes:** Ele/Dele
 
 </div>
